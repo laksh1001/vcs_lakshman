@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "message": "API route updated successfully",
+  "data": {
+    "developer": "Lakshman",
+    "version": "2.0.0",
+    "services": ["auth", "database", "api"]
+  }
+}
